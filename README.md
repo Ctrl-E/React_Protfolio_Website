@@ -1,3 +1,6 @@
+<img src="./src/assets/Screenshot_1.png"/>
+<img src="./src/assets/Screenshot_2.png"/>
+<img src="./src/assets/Screenshot_3.png"/>
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
